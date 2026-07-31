@@ -5,8 +5,8 @@
 %global crate crossbeam-channel
 
 Name:           rust-%{crate}
-Version:        0.4.0
-Release:        2%{?dist}
+Version:        0.5.16
+Release:        1%{?dist}
 Summary:        Multi-producer multi-consumer channels for message passing
 
 # Upstream license specification: MIT/Apache-2.0 AND BSD-2-Clause
